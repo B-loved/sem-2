@@ -1,0 +1,5 @@
+3 nhom nguoi dung
+- admin: dungphamdev@gmail.com\11223344
+- landlord (chu nha): landlord@gmail.com\11223344
+- renter (nguoi thue): renter@gmail.com\11223344
+- guest
